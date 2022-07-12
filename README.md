@@ -1,20 +1,21 @@
-##      🌍 Hello World!         
-name:   LOURDAUX Florian  
-job:    DÉVELOPPEUR PHP-SYMFONY JUNIOR  
-mail:   [lourdaux.florian.pro@gmail.com](mailto:lourdaux.florian.pro@gmail.com)   
-hobby:  #Code #Multimédia #Lego #Nature  
+##      🌍 Hello World!  
+name:       ✉[lourdaux.florian.pro@gmail.com](mailto:lourdaux.florian.pro@gmail.com)   
+job/cv:     [DÉVELOPPEUR PHP-SYMFONY JUNIOR ](/curriculum)  
+hobby:      #Code #Multimédia #Lego #Nature  
 
 ___
 
-###     💻 Currently:  
-Je réalise le projet final de la branche web de **l'école 42:** ['HyperTube'](https://github.com/flourdau/myHyperTube/blob/main/hypertube.fr.pdf).  
-Un **YouTube-Like.**  
-Et pour la partie Peer-to-peer ce sera bonus...  
+###     💻 Currently:     
+Je réalise le projet ['myHyperTube: '](https://github.com/flourdau/myHyperTube/)  
+Projet final de la branche web de **l'école 42:** [HyperTube](https://github.com/flourdau/myHyperTube/blob/main/hypertube.fr.pdf).  
+Il s'agit de construire un **YouTube-Like.**  
 
 ####    ❤ Technos  
-|   ![PHP](https://positive-link.net/design/img/logos/PHP.png)  |   ![Symfony6](https://positive-link.net/design/img/logos/Symfony.png)  |   ![Docker](https://positive-link.net/design/img/logos/Docker.png)    |   ![MariaDb](https://positive-link.net/design/img/logos/SQL.png)  |
+|   ![PHP](https://positive-link.net/design/img/logos/PHP.png)  |   ![MariaDb](https://positive-link.net/design/img/logos/SQL.png)  |   ![Symfony6](https://positive-link.net/design/img/logos/Symfony.png)  |   ![Docker](https://positive-link.net/design/img/logos/Docker.png)    |
 |   :----:   |   :----:   |   :----:   |   :----:   |
-|   PHP8.1   |  Symfony6  |    Docker  |   MariaDb  |
+|   PHP8.1   |   MariaDb  |  Symfony6  |    Docker  |
+|   HTML/CSS |            |            |            |
+|   JavaScript|           |            |            |
 
 ___
 
@@ -43,4 +44,5 @@ ___
 
 ___
 
-##      [📩Florian LOURDAUX](mailto:lourdaux.florian.pro@gmail.com)  
+name:       📩[Florian LOURDAUX](mailto:lourdaux.florian.pro@gmail.com)   
+job/cv:     [DÉVELOPPEUR PHP-SYMFONY JUNIOR ](/curriculum)  
