@@ -1,7 +1,7 @@
 ###      🌍 Hello World!  
-name:       ✉ [Florian LOURDAUX](mailto:lourdaux.florian.pro@gmail.com)   
-job/cv:     [DÉVELOPPEUR PHP-SYMFONY JUNIOR ](/curriculum)  
-hobby:      #Code #Multimédia #Lego #Nature  
+name: [Florian LOURDAUX](mailto:lourdaux.florian.pro@gmail.com)   
+job/cv: [DÉVELOPPEUR PHP-SYMFONY JUNIOR ](/curriculum)  
+hobby: #Code #Multimédia #Lego #Nature  
 
 ___
 
@@ -10,7 +10,7 @@ Je réalise le projet ['myHyperTube: '](https://github.com/flourdau/myHyperTube/
 Projet final de la branche web de **l'école 42:** [HyperTube](https://github.com/flourdau/myHyperTube/blob/main/hypertube.fr.pdf).  
 Il s'agit de construire un **YouTube-Like.**  
 
-####    ❤ Technos  
+####    ❤ Teknos:  
 |   ![PHP](https://positive-link.net/design/img/logos/PHP.png)  |   ![MariaDb](https://positive-link.net/design/img/logos/SQL.png)  |   ![Symfony6](https://positive-link.net/design/img/logos/Symfony.png)  |   ![Docker](https://positive-link.net/design/img/logos/Docker.png)    |
 |   :----:   |   :----:   |   :----:   |   :----:   |
 |   PHP8.1   |   MariaDb  |  Symfony6  |    Docker  |
@@ -29,7 +29,7 @@ ___
 
 ###     🔌 Inline: 
 - [https://positive-link.net](https://positive-link.net) *Site personnel*  
-- [PiServer](https://github.com/flourdau/piServer), [VirtualServer](https://github.com/flourdau/VirtualServer) *Tutoriels sur la création d'un serveur avec un Raspberry Pi & d'une machine virtuelle Debian 11.*  
+- [PiServer](https://github.com/flourdau/piServer), [VirtualServer](https://github.com/flourdau/VirtualServer) *Tutoriels sur la création de serveur avec un Raspberry Pi ou une machine virtuelle Debian 11.*  
 - [https://25ans.finioulle.com/](https://25ans.finioulle.com/) *Création d'un site pour les 25 ans du cinéma Jacques TATI de la ville d'Aniche permettant de voter pour une selection de films à diffuser en salle.*  
 
 ___
