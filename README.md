@@ -1,5 +1,5 @@
 ###      🌍 Hello World!  
-name:       ✉ [lourdaux.florian.pro@gmail.com](mailto:lourdaux.florian.pro@gmail.com)   
+name:       ✉ [Florian LOURDAUX](mailto:lourdaux.florian.pro@gmail.com)   
 job/cv:     [DÉVELOPPEUR PHP-SYMFONY JUNIOR ](/curriculum)  
 hobby:      #Code #Multimédia #Lego #Nature  
 
@@ -44,5 +44,5 @@ ___
 
 ___
 
-name:       ✉ [lourdaux.florian.pro@gmail.com](mailto:lourdaux.florian.pro@gmail.com)   
+name:       ✉ [Florian LOURDAUX](mailto:lourdaux.florian.pro@gmail.com)   
 job/cv:     [DÉVELOPPEUR PHP-SYMFONY JUNIOR ](/curriculum)  
