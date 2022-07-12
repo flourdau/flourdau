@@ -44,5 +44,5 @@ ___
 
 ___
 
-name:       ✉ [Florian LOURDAUX](mailto:lourdaux.florian.pro@gmail.com)   
+name:       [Florian LOURDAUX](mailto:lourdaux.florian.pro@gmail.com)   
 job/cv:     [DÉVELOPPEUR PHP-SYMFONY JUNIOR ](/curriculum)  
