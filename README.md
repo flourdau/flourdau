@@ -6,7 +6,7 @@ hobby: #Code #Multimédia #Lego #Nature
 ___
 
 ###     💻 Currently:     
-Je réalise le projet ['myHyperTube: '](https://github.com/flourdau/myHyperTube/)  
+Je réalise le projet ['myHyperTube'](https://github.com/flourdau/myHyperTube/):  
 Projet final de la branche web de **l'école 42:** [HyperTube](https://github.com/flourdau/myHyperTube/blob/main/hypertube.fr.pdf).  
 Il s'agit de construire un **YouTube-Like.**  
 
