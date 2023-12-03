@@ -68,7 +68,7 @@ export default function Header({ Data, Location }) {
 
 			<h1>{ title }</h1>
 
-			<h2><ReactMarkdown children={ message } /></h2>
+			<ReactMarkdown children={ message }/>
 
 			{ Location.pathname === '/curriculum' &&
 			<div className={ HeaderStyle.blocBtnHeader }>
