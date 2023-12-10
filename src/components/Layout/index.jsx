@@ -23,11 +23,20 @@ export default function Layout({ Data, Location }) {
 
 	return (<>
 
+		{ Location.pathname !== '/curriculum' &&
+		<video loop autoPlay muted>
+			<source src="vid/fond/00.webm" type="video/webm"/>
+			<source src="vid/fond/00.mp4" type="video/mp4"/>
+			<source src="vid/fond/00.ogv" type="video/ogv"/>
+			Votre navigateur ne permet pas de lire les vidéos HTML5.
+		</video>
+		}
+
 		<Nav Data={ Data } Location={ Location }/>
 	{ Location.pathname === '/curriculum' | Location.pathname === '/portfolio' | Location.pathname === '/' &&
 		<Header Data={ Data } Location={ Location }/>
 	}
-		<hr></hr>
+		{/* <hr></hr> */}
 		<main><Outlet/></main>
 		<Footer Data={ Data }/>
 

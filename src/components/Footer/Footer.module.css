@@ -3,6 +3,7 @@ FOOTER */
 .myFooter {
 	width:100%;
 	background-color:var(--vert1);
+	opacity: .75;
 	color:var(--vert2);
 	flex-direction:column;
 	text-align:center;
@@ -17,5 +18,21 @@ FOOTER */
 
 .myFooter a {
 	color:var(--violet) !important;
-	margin:0 0 0 .5rem
+	margin:0 0 0 .5rem;
+	transition:all 0.5s ease-in-out
+}
+
+.myFooter a:hover{
+	color: #fff;
+	letter-spacing:2px;
+	transition:all 0.5s ease-in-out
+}
+
+.myFooter img {
+	transition:all 0.5s ease-in-out
+}
+
+.myFooter img:hover{
+	zoom:1.05;
+	transition:all 0.5s ease-in-out
 }
