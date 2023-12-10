@@ -6,8 +6,6 @@ import MyCard from '../../components/MyCard'
 import PortfolioStyle from './Portfolio.module.css'
 
 export default function Portfolio({ Data }) {
-	console.log(data)
-
 	return (
 	<section className={ PortfolioStyle.homeContainer }>
 
