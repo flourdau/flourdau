@@ -7,7 +7,7 @@ Je m’efforce d’adapter mon code pour le rendre le plus lisible (#cleancode) 
 De nature curieux, créatif et autodidacte, j’aime apprendre de nouvelles choses et partager mes connaissances.  
 ___  
 
-##     🔑 Formations:
+##     🔑 Formations:  
 Un parcours qui me donne une vision globale du monde du numérique & de la tech.  
 ### **Maintenicien en matériel Informatique & bureautique** au centre Actif de Valenciennes  
 Je me suis perfectionné sur l'assemblage et le fonctionnement d'un PC & ses différents composants.  
