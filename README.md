@@ -20,4 +20,3 @@ ___
 
 ##     🌟 Bender:  
 ![Bender](https://raw.githubusercontent.com/flourdau/flourdau/main/IMG/00.gif "Bender")
-___  
