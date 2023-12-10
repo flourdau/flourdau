@@ -11,7 +11,7 @@ ___
 Un parcours qui me donne une vision globale du monde du numérique & de la tech.  
 ### **Maintenicien en matériel Informatique & bureautique** au centre Actif de Valenciennes  
 Je me suis perfectionné sur l'assemblage et le fonctionnement d'un PC & ses différents composants.  
-*Certification Professionnelle*.
+*Certification Professionnelle*.  
 ### **Technicien Fibre Optique** au centre Technicom Formation de Lille  
 Je suis intervenu physiquement sur le réseau ADSL & fibre optique. Relié des réseaux fibre avec la soudure à fusion. observé les différents corps de métiers qui interviennent pour un déploiement et la maintenance d'un tel réseau.  
 *Certification Professionnelle*.  
