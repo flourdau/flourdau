@@ -18,11 +18,8 @@ Je suis intervenu physiquement sur le réseau ADSL & fibre optique. Relié des r
 ### **Architecte en technologie du numérique** à l'Ecole 42 de Paris  
 Après les tests en ligne, puis le concour (la piscine) d'1 moi dans l"école, j'ai pu suivre 2 ans et demi d'études! pour atteindre le *level: 10/21* j'ai effectué divers projets en algoritm avec le langage C puis j'ai suivie la branche web avec la création de différents site web.  
 Une aventure assez unique et périlleuse mais tellement enrichissante et passionnante :)  
-### **Développement web 'Prep Fullstack'** avec Openclassrooms en distanciel  
-3 projets autour de WordPress & PHP  
-*Certification d’établissement*.  
 ### **Développement web** avec Openclassrooms en distanciel  
-8 projets autour de Javascript, React  
+11 projets autour de WordPress & PHP, de Javascript, React  
 *Certification Professionnelle Niveau 5*.  
 ___  
 
