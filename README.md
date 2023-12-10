@@ -16,7 +16,7 @@ Je me suis perfectionné sur l'assemblage et le fonctionnement d'un PC & ses dif
 Je suis intervenu physiquement sur le réseau ADSL & fibre optique. Relié des réseaux fibre avec la soudure à fusion. observé les différents corps de métiers qui interviennent pour un déploiement et la maintenance d'un tel réseau.  
 *Certification Professionnelle*.  
 #### **Architecte en technologie du numérique** à l'Ecole 42 de Paris  
-Après les tests en ligne, puis le concour (la piscine) d'1 moi dans l"école, j'ai pu suivre 2 ans et demi d'études! pour atteindre le *level: 10/21* j'ai effectué divers projets en algoritm avec le langage C puis j'ai suivie la branche web avec la création de différents site web.  
+Après les tests en ligne, puis le concour (la piscine) d'1 moi dans l"école, j'ai pu suivre 2 ans et demi d'études! pour atteindre le *level: 10/21* j'ai effectué divers projets en algorithm avec le langage C puis j'ai suivie la branche web avec la création de différents site web.  
 Une aventure assez unique et périlleuse mais tellement enrichissante et passionnante :)  
 #### **Développement web** avec Openclassrooms en distanciel  
 11 projets autour de WordPress & PHP, de Javascript, React  
