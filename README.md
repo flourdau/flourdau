@@ -14,7 +14,7 @@ ___
 🎓 J'ai obtenu le **diplôme de Développeur Web (Niveau 5)** avec [OpenClassrooms](https://openclassrooms.com/).  
 ---
 🔍 Je suis candidat pour un poste de ***Développeur Web FullStack.***  
-===
+---
 
 J'entreprends également le projet ['myHyperTube'](https://github.com/flourdau/myHyperTube/), projet final de la branche web de l'[École 42](https://42.fr/)  
 [HyperTube](https://github.com/flourdau/myHyperTube/blob/main/hypertube.fr.pdf).  
