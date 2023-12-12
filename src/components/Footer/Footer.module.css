@@ -28,9 +28,7 @@ FOOTER */
 	transition:all 0.5s ease-in-out
 }
 
-.myFooter img {
-	transition:all 0.5s ease-in-out
-}
+.myFooter img { transition:all 0.5s ease-in-out }
 
 .myFooter img:hover{
 	zoom:1.05;

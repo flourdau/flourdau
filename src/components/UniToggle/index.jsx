@@ -11,14 +11,16 @@ export default function UniToggle({Location}) {
 		
 		const scalar = 3
 		const heart = confetti.shapeFromText({ text: '💗', scalar })
-
+		
 		setChecked(!checked)
-
+		
 		let carteID = document.querySelector('header>address')
 		let QRCode = document.querySelector('header>address>img')
+		let video = document.querySelector('video')
 		
 		if (!checked) {
 
+			video.style.display = 'none'
 			QRCode.style.display = 'none'
 			carteID.style.filter = 'grayscale(0)'
 			carteID.style.background = "url('https://github.com/flourdau/flourdau/raw/main/public/img/velociraptor.webp')"
@@ -50,12 +52,12 @@ export default function UniToggle({Location}) {
 		}
 		else {
 
+			video.style.display = 'block'
+			QRCode.style.display = 'block'
 			document.body.style.background = "none"
 
 			carteID.style.background = "url('https://github.com/flourdau/flourdau/raw/main/IMG/flourdau.webp')"
 			carteID.style.filter = 'grayscale(.995)'
-
-			QRCode.style.display = 'block'
 
 			document.querySelector('header>address>canvas').remove()
 
@@ -63,17 +65,14 @@ export default function UniToggle({Location}) {
 			
 		if (Location.pathname === '/portfolio') {
 
-			const subTitle = document.getElementById("subTitle")
-			subTitle.classList.toggle("rainbow_text_animated")
+			const h1 = document.querySelector("h1")
+			h1.classList.toggle("rainbow_text_animated")
 
-			const collapse1 = document.querySelector("#collapse_0 p")
+			const collapse0 = document.querySelector("#collapse_0 p")
+			collapse0.classList.toggle("rainbow_text_animated")
+
+			const collapse1 = document.querySelector("#collapse_1 p")
 			collapse1.classList.toggle("rainbow_text_animated")
-
-			const collapse2 = document.querySelector("#collapse_1 p")
-			collapse2.classList.toggle("rainbow_text_animated")
-			
-			const collapse3 = document.querySelector("#collapse_2 p")
-			collapse3.classList.toggle("rainbow_text_animated")
 
 		}
 		

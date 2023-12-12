@@ -10,7 +10,6 @@ export default function Curriculum({ Data }) {
     return (
 
         <>
-
 			<main className={ CurriculumStyle.myMain }>
 
 				{/* FORMATION */}
@@ -45,7 +44,6 @@ export default function Curriculum({ Data }) {
 								</ul>
 
 							</div>
-
 
 						</div>
 						))}
@@ -86,7 +84,6 @@ export default function Curriculum({ Data }) {
 									</ul>
 
 								</div>
-
 
 							</div>
 							))}

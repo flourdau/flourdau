@@ -9,14 +9,6 @@ export default function Portfolio({ Data }) {
 	return (
 	<section className={ PortfolioStyle.homeContainer }>
 
-		<div className={ PortfolioStyle.contentSubTitle }>
-
-			<Link to="/curriculum">
-				<h2 id="subTitle" className="empty"> { Data.Resume.basics.label }</h2>
-			</Link>
-
-		</div>
-
 		<SocialNetwork Data={ Data.Resume } />
 
 		<section className={ PortfolioStyle.blocCol }>
@@ -47,6 +39,7 @@ export default function Portfolio({ Data }) {
 				</div>
 
 			</div>
+
 		</section>
 
 	</section>)}

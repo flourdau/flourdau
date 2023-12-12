@@ -15,15 +15,8 @@
 	align-items:center
 }
 
-.contentSubTitle {
-	background-color: rgba(255,255,255, .8);
-	text-align:center;
-	padding:0;
-	margin:2rem 0;
-	display:flex;
-	flex-flow:row;
-	align-items:center;
-	gap:1rem
+.homeContainer>ul:first-child {
+	margin:16rem 0
 }
 
 .blocCol {
@@ -36,13 +29,9 @@
 }
 
 .blocCol ul {
-	margin:0 0 2rem 0;
 	list-style:none;
 	justify-content:center
 }
-
-/* flourdau in social-network */
-.blocCol ul p { display:none }
 
 .blocCol>a {
 	margin:0;
@@ -52,15 +41,13 @@
 
 .blocCol h3 {
 	width:100%;
-	/* margin:8rem 0 10rem 0; */
-	margin:8rem 0 1rem 0;
+	margin:14rem 0 2rem 0;
 	text-align:center;
 	font-style:normal;
 	font-weight:var(--font-weight);
 	font-size:var(--highlight-font-size);
 	line-height:var(--line-height)
 }
-
 
 .blocMain>div { background-color:rgba(255,255,255, .8) }
 
@@ -111,7 +98,7 @@
 
 	.blocCol p {
 		padding:0 1rem;
-		font-size:calc(var(--highlight-font-size) - .85rem);
+		font-size:calc(var(--highlight-font-size) - .85rem)
 	}
 
 	.projectsList img {
@@ -124,5 +111,6 @@
 
 	.blocMain{padding:0 1rem}
 	.blocMain p, .blocMain p a, .blocMain li { font-size:1.25rem }
-	.projectsList {padding:2rem 0 0 0}
+	.projectsList { padding:2rem 0 0 0 }
+
 }

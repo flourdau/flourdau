@@ -20,7 +20,7 @@ HEADER */
 
 .myHeader>strong h2 {
     font-size:2rem !important;
-    font-style: normal!important
+    font-style:normal!important
 }
 
 .myHeader>strong {
@@ -38,7 +38,6 @@ HEADER */
     margin:0 0 0 2%;
 	padding:0 .5rem;
     border-radius:1rem
-
 }
 
 
@@ -134,10 +133,9 @@ QR CODE  */
 
 }
 
-@media all and (max-width: 750px) {
+@media all and (max-width:750px) {
 
-	/* .myHeader { padding:5rem 0 0 0 } */
-	.myHeader>address { zoom:80%; }
+	.myHeader>address { zoom:80% }
 
     .myHeader>strong h2 { font-size:1.25rem !important }
 

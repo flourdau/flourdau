@@ -16,7 +16,7 @@ let Data = await GetData()
 export default function Routers() {
 	/*
 	DEBUG */
-    console.log(Data)
+    // console.log(Data)
 
 	let location = useLocation()
 

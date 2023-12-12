@@ -3,7 +3,6 @@ import Header from '../../components/Header'
 import Nav from '../../components/Nav'
 import Footer from '../../components/Footer'
 
-
 import '../../depotsGIT/fonts/font-awesome-5.15.1/css/all.css'
 import '../../depotsGIT/fonts/OpenSans/OpenSans.css'
 import '../../depotsGIT/fonts/Icons/material-icons.css'
@@ -17,9 +16,6 @@ import 'bootstrap/dist/css/bootstrap.min.css'
 
 
 export default function Layout({ Data, Location }) {
-
-	// DEBUG
-	// console.log(Location)
 
 	return (<>
 
@@ -36,7 +32,6 @@ export default function Layout({ Data, Location }) {
 	{ Location.pathname === '/curriculum' | Location.pathname === '/portfolio' | Location.pathname === '/' &&
 		<Header Data={ Data } Location={ Location }/>
 	}
-		{/* <hr></hr> */}
 		<main><Outlet/></main>
 		<Footer Data={ Data }/>
 
