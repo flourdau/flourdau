@@ -1,1 +1,0 @@
-export default function Tag({ tag, id }) { return <span className="tag">{ tag }</span> }
