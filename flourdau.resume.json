@@ -259,10 +259,10 @@
 			"Utilisation de l'API de GitHub",
 			"Organisation de la data en suivant le standard JSON Resume"
 		],
-		"cover":		"/flourdau/img/Projets/Portfolio/cover.webp",
+		"cover":		"/img/Projets/Portfolio/cover.webp",
 		"pictures":		[
-			"/flourdau/img/Projets/Portfolio/screen1.webp",
-			"/flourdau/img/Projets/Portfolio/screen2.webp"
+			"/img/Projets/Portfolio/screen1.webp",
+			"/img/Projets/Portfolio/screen2.webp"
 		],
 		"keywords":		[
 			"React",
@@ -294,10 +294,10 @@
 			"Déploiement d'un WordPress",
 			"Administration d'une base de données MariaDB"
 		],
-		"cover":		"/flourdau/img/Projets/Blog/cover.webp",
+		"cover":		"/img/Projets/Blog/cover.webp",
 		"pictures":		[
-			"/flourdau/img/Projets/Blog/screen1.webp",
-			"/flourdau/img/Projets/Blog/screen2.webp"
+			"/img/Projets/Blog/screen1.webp",
+			"/img/Projets/Blog/screen2.webp"
 		],
 		"keywords":		[
 			"WordPress",
@@ -325,11 +325,11 @@
 			"Déploiement avec VirtualBox",
 			"Paramétrage d'un evironnement de développement axé web"
 		],
-		"cover":		"/flourdau/img/Projets/VirtualServer/cover.webp",
+		"cover":		"/img/Projets/VirtualServer/cover.webp",
 		"pictures":		[
-			"/flourdau/img/Projets/VirtualServer/screen1.webp",
-			"/flourdau/img/Projets/VirtualServer/screen2.webp",
-			"/flourdau/img/Projets/VirtualServer/screen3.webp"
+			"/img/Projets/VirtualServer/screen1.webp",
+			"/img/Projets/VirtualServer/screen2.webp",
+			"/img/Projets/VirtualServer/screen3.webp"
 		],
 		"keywords":		[
 			"Markdown",
@@ -360,12 +360,12 @@
 			"Recueillir la saisie des données utilisateur en langage PHP.",
 			"Gérer les informations dans la base de données en langage SQL."
 		],
-		"cover":		"/flourdau/img/Projets/GBAF/cover.webp",
+		"cover":		"/img/Projets/GBAF/cover.webp",
 		"pictures":		[
-			"/flourdau/img/Projets/GBAF/screen1.webp",
-			"/flourdau/img/Projets/GBAF/screen2.webp",
-			"/flourdau/img/Projets/GBAF/screen3.webp",
-			"/flourdau/img/Projets/GBAF/screen4.webp"
+			"/img/Projets/GBAF/screen1.webp",
+			"/img/Projets/GBAF/screen2.webp",
+			"/img/Projets/GBAF/screen3.webp",
+			"/img/Projets/GBAF/screen4.webp"
 		],
 		"keywords":		[
 			"PHP8",
@@ -394,14 +394,14 @@
 			"Coder la structure d’une page web en HTML5.",
 			"Mettre en page et en forme en utilisant le CSS."
 		],
-		"cover":		"/flourdau/img/Projets/RobbieLens/cover.webp",
+		"cover":		"/img/Projets/RobbieLens/cover.webp",
 		"pictures":		[
-			"/flourdau/img/Projets/RobbieLens/screen1.webp",
-			"/flourdau/img/Projets/RobbieLens/screen2.webp",
-			"/flourdau/img/Projets/RobbieLens/screen3.webp",
-			"/flourdau/img/Projets/RobbieLens/screen4.webp",
-			"/flourdau/img/Projets/RobbieLens/screen5.webp",
-			"/flourdau/img/Projets/RobbieLens/screen6.webp"
+			"/img/Projets/RobbieLens/screen1.webp",
+			"/img/Projets/RobbieLens/screen2.webp",
+			"/img/Projets/RobbieLens/screen3.webp",
+			"/img/Projets/RobbieLens/screen4.webp",
+			"/img/Projets/RobbieLens/screen5.webp",
+			"/img/Projets/RobbieLens/screen6.webp"
 		],
 		"keywords":		[
 			"HTML5",
@@ -430,11 +430,11 @@
 			"Intégrer du contenu conformément à une maquette avec HTML et CSS",
 			"Installer un environnement de développement front-end"
 		],
-		"cover":		"/flourdau/img/Projets/Booki/cover.webp",
+		"cover":		"/img/Projets/Booki/cover.webp",
 		"pictures":		[
-			"/flourdau/img/Projets/Booki/screen1.webp",
-			"/flourdau/img/Projets/Booki/screen2.webp",
-			"/flourdau/img/Projets/Booki/screen3.webp"
+			"/img/Projets/Booki/screen1.webp",
+			"/img/Projets/Booki/screen2.webp",
+			"/img/Projets/Booki/screen3.webp"
 		],
 		"keywords":		[
 			"HTML5",
@@ -465,11 +465,11 @@
 			"Configurez la navigation entre les pages de l'application avec React Router",
 			"Développez des éléments de l'interface d'un site web grâce à des composants React"
 		],
-		"cover":		"/flourdau/img/Projets/Kasa/cover.webp",
+		"cover":		"/img/Projets/Kasa/cover.webp",
 		"pictures":		[
-			"/flourdau/img/Projets/Kasa/screen1.webp",
-			"/flourdau/img/Projets/Kasa/screen2.webp",
-			"/flourdau/img/Projets/Kasa/screen3.webp"
+			"/img/Projets/Kasa/screen1.webp",
+			"/img/Projets/Kasa/screen2.webp",
+			"/img/Projets/Kasa/screen3.webp"
 		],
 		"keywords":		[
 			"React",
