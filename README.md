@@ -6,7 +6,7 @@ Passionné par le numérique, la 💗 tech, curieux, créatif & autodidacte, j�
 🏆 J'ai obtenu le ***diplôme de Développeur Web (Niveau 5)***.  
 
 🔧 Afin de concevoir des pages web **sécurisées, dynamiques, performantes & innovantes**,  
-j'utilise **diverses technologies** & pratiques:
+j'utilise diverses technologies & pratiques:
 - Le CMS **WordPress**,  
 - Les langages **HTML, CSS, JavaScript, PHP & SQL**...  
 - Les frameworks & librairies **Symfony, Express, & React**... 
