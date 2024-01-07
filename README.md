@@ -1,8 +1,9 @@
 ##		👋 Hello World! 🌍:  
 💻 Je m’appelle [Florian LOURDAUX](https://flourdau.github.io), 40 ans, **Développeur Web Junior**, situé à Aniche(59) dans les Hauts de France.  
-Passionné par le numérique, la 💗 tech, curieux, créatif & autodidacte, j’aime partager mes connaissances.  
+Passionné par le numérique, la tech, curieux, créatif & autodidacte, j’aime partager mes connaissances.  
 
 🎓 Fort de trois années d'immersion à l'**[École 42](https://42.fr/)** & d'une année en distanciel avec **[OpenClassrooms](https://openclassrooms.com/fr/paths/899-developpeur-web)**.  
+
 🏆 J'ai obtenu le ***diplôme de Développeur Web (Niveau 5)***.  
 
 🔧 Afin de concevoir des pages web **sécurisées, dynamiques, performantes & innovantes**,  
@@ -19,7 +20,8 @@ ___
 🔍 Je suis candidat pour un poste de ***Développeur Web FullStack.***  
 ---
 
-📌 J'entreprends également le projet ['myHyperTube'](https://github.com/flourdau/myHyperTube/), projet final de la branche web de l'[École 42](https://42.fr/): [HyperTube](https://github.com/flourdau/myHyperTube/blob/main/hypertube.fr.pdf).  
+📌 J'entreprends également le projet ['myHyperTube'](https://github.com/flourdau/myHyperTube/),  
+projet final de la branche web de l'[École 42](https://42.fr/): [HyperTube](https://github.com/flourdau/myHyperTube/blob/main/hypertube.fr.pdf).  
 Il s'agit de construire un **'YouTube-Like'**.  
 
 ⏳ Je travaille aussi l'update:
