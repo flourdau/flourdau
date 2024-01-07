@@ -19,10 +19,10 @@ ___
 🔍 Je suis candidat pour un poste de ***Développeur Web FullStack.***  
 ---
 
-📌J'entreprends également le projet ['myHyperTube'](https://github.com/flourdau/myHyperTube/), projet final de la branche web de l'[École 42](https://42.fr/), [HyperTube](https://github.com/flourdau/myHyperTube/blob/main/hypertube.fr.pdf).  
+📌 J'entreprends également le projet ['myHyperTube'](https://github.com/flourdau/myHyperTube/), projet final de la branche web de l'[École 42](https://42.fr/): [HyperTube](https://github.com/flourdau/myHyperTube/blob/main/hypertube.fr.pdf).  
 Il s'agit de construire un **'YouTube-Like'**.  
 
-⏳Je travaille aussi l'update:
+⏳ Je travaille aussi l'update:
 - De ma [page personnelle](https://positive-link.net)
 - De mon bot Discord [Aurène](https://github.com/flourdau/aureneBotDiscord)
 - Ainsi que mon empreinte numérique, [ID](https://flourdau.github.io), [CV](https://flourdau.github.io/curriculum), [Portfolio](https://flourdau.github.io/portfolio) & [Blog](https://blog.positive-link.net)  
