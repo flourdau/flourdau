@@ -6,7 +6,7 @@ Passionné par le numérique & la 💗 tech, de nature curieux, créatif & autod
 J'ai obtenu le ***diplôme de Développeur Web (Niveau 5)***.  
 Je me suis investi dans l'apprentissage de **diverses technologies** afin de concevoir des pages web **dynamiques**.  
 
-🔧 Je suis familier avec:  
+🔧 Je suis familier avec:
 - Les langages **HTML, CSS, JavaScript, PHP & SQL**...  
 - Le CMS **WordPress**,  
 - Les frameworks & librairies **Symfony, Express, & React** ... 
@@ -16,7 +16,7 @@ ___
 
 ##		👩‍💻 Actuellement:  
 🔍 Je suis candidat pour un poste de ***Développeur Web FullStack.***  
-===
+---
 
 J'entreprends également le projet ['myHyperTube'](https://github.com/flourdau/myHyperTube/), projet final de la branche web de l'[École 42](https://42.fr/), [HyperTube](https://github.com/flourdau/myHyperTube/blob/main/hypertube.fr.pdf).  
 Il s'agit de construire un **'YouTube-Like'**.  
