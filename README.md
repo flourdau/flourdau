@@ -1,12 +1,11 @@
 ##		👋 Hello World! 🌍:  
 💻 Je m’appelle [Florian LOURDAUX](https://flourdau.github.io), 40 ans, **Développeur Web Junior**, situé à Aniche(59) dans le Nord de la France.  
-Passionné par le numérique & la 💗 tech, curieux, créatif & autodidacte, j’aime partager mes connaissances.  
+Passionné par le numérique, la 💗 tech, curieux, créatif & autodidacte, j’aime partager mes connaissances.  
 
 🎓 Fort de trois années d'immersion à l'**[École 42](https://42.fr/)** & d'une année en distanciel avec **[OpenClassrooms](https://openclassrooms.com/fr/paths/899-developpeur-web)**.  
-J'ai obtenu le ***diplôme de Développeur Web (Niveau 5)***.  
-Je me suis investi dans l'apprentissage de **diverses technologies** afin de concevoir des pages web **dynamiques**.  
+J'ai obtenu le ***diplôme de Développeur Web (Niveau 5)***🏆.  
 
-🔧 Je suis familier avec:
+🔧 Afin de concevoir des **pages web dynamiques**, j'utilise **diverses technologies** & pratiques:
 - Les langages **HTML, CSS, JavaScript, PHP & SQL**...  
 - Le CMS **WordPress**,  
 - Les frameworks & librairies **Symfony, Express, & React**... 
