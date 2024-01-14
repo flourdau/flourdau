@@ -15,7 +15,7 @@ ___
 - Le CMS: **WordPress**
 - Les langages: **HTML, CSS, JavaScript, PHP & SQL**...
 - Les frameworks & librairies: **Symfony, Express, & React**
-- L'optimisation du code ainsi que:
+- ⚡ L'optimisation du code ainsi que:
 	- ♿ l’**accessibilité**
 	- 🔍 le référencement **#SEO**
 	- 🧹 la lisibilité **#CleanCode**
