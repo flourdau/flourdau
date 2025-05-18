@@ -3,20 +3,20 @@
 	"basics": {
 		"name":		"Florian Lourdaux",
 		"nickname":	"Senacra Flora Van Haze",
-		"label":	"Développeur Web FullStack",
+		"label":	"Développeur Web",
 		"image":	"flourdau.webp",
 		"email":	"lourdaux.florian.pro@gmail.com",
 		"phone":	"06-80-48-33-84",
 		"url":		"https://positive-link.net/portfolio",
 		"summary":	"## Formé à **l'[École 42](https://42.fr/)** ainsi que sur **[OpenClassrooms](https://openclassrooms.com/)**, je suis prêt à mettre en pratique mes compétences au sein d'une entreprise innovante.  Je contribuerai à la création de solutions web de qualité et participerai à son succès. Tout en relevant de nouveaux défis stimulants. ",
 		"location":	{
-			"address":		"Appartement 103, 4 rue Robert Verrier",
-			"city":			"ANICHE",
+			"address":	"Appartement 103, 4 rue Robert Verrier",
+			"city":		"ANICHE",
 			"postalCode":	"59580",
-			"country":		"FRANCE",
+			"country":	"FRANCE",
 			"countryCode":	"FR",
 			"department":	"Nord",
-			"region":		"Haut de France"
+			"region":	"Haut de France"
 		},
 		"profiles": [
 			{
@@ -50,7 +50,7 @@
 		"endDate": "2018-11-01",
 		"summary": "Description…",
 		"highlights": [
-			"Création d'outils en PHP : mailing, référencements, achats.",
+			"Création d'outils en PHP : mailing, référencements, achats automatisés.",
 			"Gestion des sites internet et bases de données. (PHP, MYSQL, ORACLE)",
 			"Maintenance du parc informatique : +25 machines, 2 serveurs (1 local + 1 distant)."
 		]
@@ -250,21 +250,21 @@
 	],
 	"projects": [
 	{
-		"id":			"16d18222",
-		"category":		"Fullstack",
-		"name":			"Portfolio & CV",
+		"id":		"16d18222",
+		"category":	"Fullstack",
+		"name":		"Portfolio & CV",
 		"description":	"Le projet numéro 08 de la formation Openclassrooms consiste à créer son propre portfolio. Dans ce cadre, j’ai récupéré les informations de mon profil Github ainsi que depuis mon fichier Resume.json, et je les ai affichées correctement. Les difficultés rencontrées lors de ce projet ont été l’organisation des données, la prise en main de React & de GitHub Page. Pour y remédier, j’ai choisi le standard JSON Resume, suivi et revu les cours OpenClassrooms, consulté la documentation et certaines ressources sur internet. Finalement, j’ai fusionné mon CV en ligne avec le projet de sorte qu’en modifiant uniquement mon fichier Resume.json, tout se met à jour automatiquement.",
 		"highlights":	[
 			"Mise en pratique de la formation de Développeur Web d'OpenClassrooms",
 			"Utilisation de l'API de GitHub",
 			"Organisation de la data en suivant le standard JSON Resume"
 		],
-		"cover":		"/img/Projets/Portfolio/cover.webp",
-		"pictures":		[
+		"cover":	"/img/Projets/Portfolio/cover.webp",
+		"pictures":	[
 			"/img/Projets/Portfolio/screen1.webp",
 			"/img/Projets/Portfolio/screen2.webp"
 		],
-		"keywords":		[
+		"keywords":	[
 			"React",
 			"HTML5",
 			"CSS3",
@@ -275,82 +275,82 @@
 			"Markdown"
 		],
 		"startDate":	"2023-07-21",
-		"endDate":		"2023-08-21",
-		"url":			"https://flourdau.github.io/flourdau",
-		"depot":		"https://github.com/flourdau/flourdau",
-		"roles":		[
+		"endDate":	"2023-08-21",
+		"url":		"https://flourdau.github.io/flourdau",
+		"depot":	"https://github.com/flourdau/flourdau",
+		"roles":	[
 			"Team lead",
 			"Designer"
 		],
-		"type":			"Vitrine"
+		"type":		"Vitrine"
 	},
 	{
-		"id":			"36d188m8",
-		"category":		"WordPress",
-		"name":			"Blog",
+		"id":		"36d188m8",
+		"category":	"WordPress",
+		"name":		"Blog",
 		"description":	"Création de mon blog avec le CMS WordPress. La principale difficulté rencontrée lors de ce projet a été le déploiement et l’optimisation. Pour surmonter ces défis, j’ai suivi les procédures de mon hébergeur, ainsi que les cours disponibles sur OpenClassrooms ainsi que sur Internet. Ayant choisi un CMS très utilisé, j’ai pu bénéficier de nombreuses ressources pour l’installation, le paramétrage et l’optimisation.",
 		"highlights":	[
 			"Mise en pratique de la formation de Développeur Web d'OpenClassrooms",
 			"Déploiement d'un WordPress",
 			"Administration d'une base de données MariaDB"
 		],
-		"cover":		"/img/Projets/Blog/cover.webp",
-		"pictures":		[
+		"cover":	"/img/Projets/Blog/cover.webp",
+		"pictures":	[
 			"/img/Projets/Blog/screen1.webp",
 			"/img/Projets/Blog/screen2.webp"
 		],
-		"keywords":		[
+		"keywords":	[
 			"WordPress",
 			"MariaDB",
 			"HTML5",
 			"CSS3"
 		],
 		"startDate":	"2019-07-28",
-		"endDate":		"2023-08-21",
-		"url":			"https://blog.positive-link.net/",
-		"depot":		"https://blog.positive-link.net/",
-		"roles":		[
+		"endDate":	"2023-08-21",
+		"url":		"https://blog.positive-link.net/",
+		"depot":	"https://blog.positive-link.net/",
+		"roles":	[
 			"Team lead",
 			"Designer"
 		],
-		"type":			"WordPress"
+		"type":		"WordPress"
 	},
 	{
-		"id":			"46d188m8",
-		"category":		"Tutoriel",
-		"name":			"myVirtualEnv",
+		"id":		"46d188m8",
+		"category":	"Tutoriel",
+		"name":		"myVirtualEnv",
 		"description":	"Création d’une fiche de procédure en ligne (site statique) pour créer une machine virtuelle Debian avec VirtualBox. Ce projet n’a pas présenté de difficulté majeure, à part peut-être le contenu de la procédure elle-même. En effet, ce projet met en avant la création d’un environnement de développement avec Debian. J’ai choisi le langage Markdown pour une meilleure lisibilité sur GitHub, et j’ai également utilisé GitHub Pages pour améliorer la mise en page.",
 		"highlights":	[
 			"Création d'une fiche de procédure détaillée",
 			"Déploiement avec VirtualBox",
 			"Paramétrage d'un evironnement de développement axé web"
 		],
-		"cover":		"/img/Projets/VirtualServer/cover.webp",
-		"pictures":		[
+		"cover":	"/img/Projets/VirtualServer/cover.webp",
+		"pictures":	[
 			"/img/Projets/VirtualServer/screen1.webp",
 			"/img/Projets/VirtualServer/screen2.webp",
 			"/img/Projets/VirtualServer/screen3.webp"
 		],
-		"keywords":		[
+		"keywords":	[
 			"Markdown",
 			"GitHubPage",
 			"VirtualBox",
 			"Debian"
 		],
 		"startDate":	"2019-07-28",
-		"endDate":		"2023-08-21",
-		"url":			"https://flourdau.github.io/myVirtualEnv",
-		"depot":		"https://github.com/flourdau/myVirtualEnv",
-		"roles":		[
+		"endDate":	"2023-08-21",
+		"url":		"https://flourdau.github.io/myVirtualEnv",
+		"depot":	"https://github.com/flourdau/myVirtualEnv",
+		"roles":	[
 			"Team lead",
 			"Designer"
 		],
-		"type":			"Tutoriel"
+		"type":		"Tutoriel"
 	},
 	{
-		"id":			"57d188m8",
-		"category":		"Extranet",
-		"name":			"GBAF",
+		"id":		"57d188m8",
+		"category":	"Extranet",
+		"name":		"GBAF",
 		"description":	"Vous êtes développeur dans un grand groupe bancaire: le Groupement Banque-Assurance Français (GBAF). Vous devez réaliser un intranet pour créer, commenter, noter les acteurs du groupe. La principale difficulté rencontrée lors de ce projet a été de ne pas utiliser de framework ni de librairies, et de tout reconstruire à partir de ‘zéro’ en PHP. Mon objectif était de bien comprendre les bases de ce langage. Pour ce faire, j’ai utilisé la documentation, suivi des cours et utilisé des ressources disponibles sur Internet concernant ce langage très utilisé pour le web.",
 		"highlights":	[
 			"Coder la structure d’une page web en HTML5.",
@@ -360,42 +360,42 @@
 			"Recueillir la saisie des données utilisateur en langage PHP.",
 			"Gérer les informations dans la base de données en langage SQL."
 		],
-		"cover":		"/img/Projets/GBAF/cover.webp",
-		"pictures":		[
+		"cover":	"/img/Projets/GBAF/cover.webp",
+		"pictures":	[
 			"/img/Projets/GBAF/screen1.webp",
 			"/img/Projets/GBAF/screen2.webp",
 			"/img/Projets/GBAF/screen3.webp",
 			"/img/Projets/GBAF/screen4.webp"
 		],
-		"keywords":		[
+		"keywords":	[
 			"PHP8",
 			"MariaDB",
 			"HTML5",
 			"CSS3"
 		],
 		"startDate":	"2019-07-28",
-		"endDate":		"2023-08-21",
+		"endDate":	"2023-08-21",
 		"urlRepoGit":	"A CREER",
 		"urlProjet":	"https://openclassrooms.com/fr/paths/179/projects/674/assignment",
-		"url":			"https://oc-projet03.positive-link.net/",
-		"depot":		"https://github.com/flourdau/OC_Projet03-1",
-		"roles":		[
+		"url":		"https://oc-projet03.positive-link.net/",
+		"depot":	"https://github.com/flourdau/OC_Projet03-1",
+		"roles":	[
 			"Team lead",
 			"Designer"
 		],
-		"type":			"Extranet"
+		"type":		"Extranet"
 	},
 	{
-		"id":			"67d188m8",
-		"category":		"Vitrine",
-		"name":			"Robbie Lens",
+		"id":		"67d188m8",
+		"category":	"Vitrine",
+		"name":		"Robbie Lens",
 		"description":	"Site vitrine pour une photographe. Les principales difficultés rencontrées lors de ce projet ont été liées à l’utilisation des ‘Grid’ (CSS), que je n’avais pas encore utilisées auparavant. Cela a été une excellente occasion pour moi d’apprendre et de maîtriser cette nouvelle compétence.",
 		"highlights":	[
 			"Coder la structure d’une page web en HTML5.",
 			"Mettre en page et en forme en utilisant le CSS."
 		],
-		"cover":		"/img/Projets/RobbieLens/cover.webp",
-		"pictures":		[
+		"cover":	"/img/Projets/RobbieLens/cover.webp",
+		"pictures":	[
 			"/img/Projets/RobbieLens/screen1.webp",
 			"/img/Projets/RobbieLens/screen2.webp",
 			"/img/Projets/RobbieLens/screen3.webp",
@@ -403,26 +403,26 @@
 			"/img/Projets/RobbieLens/screen5.webp",
 			"/img/Projets/RobbieLens/screen6.webp"
 		],
-		"keywords":		[
+		"keywords":	[
 			"HTML5",
 			"CSS3"
 		],
 		"startDate":	"2019-07-28",
-		"endDate":		"2023-08-21",
+		"endDate":	"2023-08-21",
 		"urlRepoGit":	"https://github.com/flourdau/OC_HTML-CSS",
 		"urlProjet":	"https://openclassrooms.com/fr/courses/1603881-creez-votre-site-web-avec-html5-et-css3",
-		"url":			"https://photo-model.positive-link.net/",
-		"depot":		"https://github.com/flourdau/OC_HTML-CSS",
-		"roles":		[
+		"url":		"https://photo-model.positive-link.net/",
+		"depot":	"https://github.com/flourdau/OC_HTML-CSS",
+		"roles":	[
 			"Team lead",
 			"Designer"
 		],
-		"type":			"Vitrine"
+		"type":		"Vitrine"
 	},
 	{
-		"id":			"777788m8",
-		"category":		"Vitrine",
-		"name":			"Booki",
+		"id":		"777788m8",
+		"category":	"Vitrine",
+		"name":		"Booki",
 		"description":	"Créez la page d'accueil d'une agence de voyage avec HTML & CSS. Pour ce projet la difficulté rencontrée été la découverte de Figma une application web pour la création de maquette.",
 		"highlights":	[
 			"Implémenter une interface responsive avec HTML et CSS",
@@ -430,13 +430,13 @@
 			"Intégrer du contenu conformément à une maquette avec HTML et CSS",
 			"Installer un environnement de développement front-end"
 		],
-		"cover":		"/img/Projets/Booki/cover.webp",
-		"pictures":		[
+		"cover":	"/img/Projets/Booki/cover.webp",
+		"pictures":	[
 			"/img/Projets/Booki/screen1.webp",
 			"/img/Projets/Booki/screen2.webp",
 			"/img/Projets/Booki/screen3.webp"
 		],
-		"keywords":		[
+		"keywords":	[
 			"HTML5",
 			"CSS3",
 			"JavaScript",
@@ -444,34 +444,34 @@
 			"GitHub"
 		],
 		"startDate":	"2021-01-28",
-		"endDate":		"2023-02-16",
+		"endDate":	"2023-02-16",
 		"urlRepoGit":	"https://github.com/flourdau/OC_projet02",
 		"urlProjet":	"https://openclassrooms.com/fr/paths/717/projects/1332/assignment",
-		"url":			"https://booki.positive-link.net",
-		"depot":		"https://github.com/flourdau/OC_Projet02",
-		"roles":		[
+		"url":		"https://booki.positive-link.net",
+		"depot":	"https://github.com/flourdau/OC_Projet02",
+		"roles":	[
 			"Team lead",
 			"Designer"
 		],
-		"type":			"Vitrine"
+		"type":		"Vitrine"
 	},
 	{
-		"id":			"87778899",
-		"category":		"Application",
-		"name":			"Kasa",
+		"id":		"87778899",
+		"category":	"Application",
+		"name":		"Kasa",
 		"description":	"Créez une application web de location immobilière avec React. La principale difficulté rencontrée lors de ce projet a été la découverte de React. Cependant, en suivant les ressources disponibles sur le web, les cours d’OpenClassrooms et la documentation, j’ai pu surmonter ces défis et valider le projet.",
 		"highlights":	[
 			"Initialisez une application avec Create React App",
 			"Configurez la navigation entre les pages de l'application avec React Router",
 			"Développez des éléments de l'interface d'un site web grâce à des composants React"
 		],
-		"cover":		"/img/Projets/Kasa/cover.webp",
-		"pictures":		[
+		"cover":	"/img/Projets/Kasa/cover.webp",
+		"pictures":	[
 			"/img/Projets/Kasa/screen1.webp",
 			"/img/Projets/Kasa/screen2.webp",
 			"/img/Projets/Kasa/screen3.webp"
 		],
-		"keywords":		[
+		"keywords":	[
 			"React",
 			"HTML5",
 			"CSS3",
@@ -480,20 +480,20 @@
 			"GitHub"
 		],
 		"startDate":	"2019-07-28",
-		"endDate":		"2023-08-21",
+		"endDate":	"2023-08-21",
 		"urlRepoGit":	"https://github.com/flourdau/OC_projet06",
 		"urlProjet":	"https://openclassrooms.com/fr/paths/717/projects/1247/assignment",
-		"url":			false,
-		"depot":		"https://github.com/flourdau/OC_Projet06",
-		"roles":		[
+		"url":		false,
+		"depot":	"https://github.com/flourdau/OC_Projet06",
+		"roles":	[
 			"Team lead",
 			"Designer"
 		],
-		"type":			"Application"
+		"type":	"Application"
 	}],
 	"personal": [
 		{
-			"name":			"Autour des Raspberry Pi :",
+			"name":		"Autour des Raspberry Pi :",
 			"description":	[
 				"Interfaces Météo/Transports/Domotique",
 				"Point d'access Wifi",
@@ -501,16 +501,16 @@
 			]
 		},
 		{
-			"name":			"Création & Administration du site:",
+			"name":		"Création & Administration du site:",
 			"description":	[
 				"positive-link.net"
 			]
 		}
 	],
 	"meta":	{
-		"title": "🌍 Hello World!",
-		"content": "Bonjour & bienvenue sur mon Portfolio! \nJe suis Florian Lourdaux.",
-		"pictures": [
+		"title":	"🌍 Hello World!",
+		"content":	"Bonjour & bienvenue sur mon Portfolio! \nJe suis Florian Lourdaux.",
+		"pictures":	[
 			"/flourdau/img/Body/Carousel/circuitImp.webp",
 			"/flourdau/img/Body/Carousel/sonic.webp",
 			"/flourdau/img/Body/Carousel/circuitImp2.webp",
@@ -520,7 +520,7 @@
 			"/flourdau/img/Body/Carousel/memory.webp"
 		],
 		"canonical":	"https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
-		"version":		"v1.0.0",
+		"version":	"v1.0.0",
 		"lastModified":	"2017-12-24T15:53:00"
 	}
 }
