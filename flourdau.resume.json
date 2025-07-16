@@ -58,6 +58,20 @@
 	],
 	"education": [
 		{
+			"institution": "Diversidays & Google AI Opportunity (DISTANCIEL)",
+			"url": "https://www.coursera.org/account/accomplishments/verify/KPM6F1VF7E3W",
+			"area": "Google AI Essentials",
+			"startDate": "2025-06-24",
+			"endDate": "2025-07-08",
+			"courses": [
+                "Concepts fondamentaux de l'IA et du Machine Learning.",
+                "Rédaction de prompts efficaces.",
+                "Optimisation de la productivité grâce à l'intégration des outils adaptés.",
+                "Utilisation responsable de l'IA:",
+				"(éthique, biais, sécurité des données)",
+            ]
+		},
+		{
 			"institution": "OpenClassrooms (DISTANCIEL)",
 			"url": "https://openclassrooms.com/fr/paths/717-developpeur-web",
 			"area": "Développeur Web",
