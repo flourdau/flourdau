@@ -1,5 +1,5 @@
 ##		👋 Hello World! 🌍:  
-👩‍💻 *Je m’appelle [Florian LOURDAUX](https://flourdau.github.io), 40 ans,* **Développeur Web**,  
+👩‍💻 *Je m’appelle [Florian LOURDAUX](https://flourdau.github.io), 43 ans,* **Développeur Web**,  
 🏠 *situé à Aniche(59) dans les Hauts de France.*  
 💗 *Passionné par le numérique, la tech,*  
 ✨ *curieux, créatif & autodidacte, j’aime partager mes connaissances.*  
